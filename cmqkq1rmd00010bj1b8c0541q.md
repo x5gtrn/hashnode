@@ -14,6 +14,8 @@ This post is a field guide — not a press release. It's about the three agent t
 
 A quick caveat before we start: model versions, benchmark scores, and pricing in this space change on a roughly monthly cadence. I've linked sources throughout so you can check current numbers yourself; treat anything with a specific percentage or dollar figure as a snapshot, not a permanent fact.
 
+%[https://speakerdeck.com/x5gtrn/developing-with-ai-agents-codex-claude-code-and-cowork-practical-guide] 
+
 ## Why This Shift Happened Now
 
 For most of the last few years, "AI coding help" meant a chat window: you pasted in a function, asked a question, got an explanation or a snippet back, and did the rest yourself by hand — copy, paste, run, debug, repeat.
