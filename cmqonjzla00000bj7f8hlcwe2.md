@@ -14,7 +14,7 @@ tags: software-development, backend, distributed-system, apache-kafka, event-dri
 
 * * *
 
-## 1\. The Problem Kafka Was Built to Solve {#the-problem}
+## 1\. The Problem Kafka Was Built to Solve
 
 ![](https://cdn.hashnode.com/uploads/covers/62d5556b2f40e31decd90345/e29219f2-7891-413f-bc80-04fc927ba9a9.jpg align="center")
 
@@ -37,7 +37,7 @@ Kafka was built to solve all of this with a single, elegant abstraction: **a dis
 
 * * *
 
-## 2\. What Is Apache Kafka, Really? {#what-is-kafka}
+## 2\. What Is Apache Kafka, Really?
 
 [Apache Kafka](https://kafka.apache.org/) is an open-source **distributed event streaming platform**, originally developed by engineers at [LinkedIn in 2011](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) and subsequently donated to the [Apache Software Foundation](https://www.apache.org/). It is released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
@@ -57,7 +57,7 @@ Kafka is now the backbone of companies like [Netflix](https://netflixtechblog.co
 
 * * *
 
-## 3\. The 5 Core Concepts You Must Understand {#core-concepts}
+## 3\. The 5 Core Concepts You Must Understand
 
 Understanding Kafka's vocabulary is non-negotiable. These five terms appear in every Kafka conversation.
 
@@ -115,7 +115,7 @@ Think of it as a **distribution center** that stores and forwards the right sect
 
 * * *
 
-## 4\. Architecture Deep Dive — How Data Actually Flows {#architecture}
+## 4\. Architecture Deep Dive — How Data Actually Flows
 
 ![](https://cdn.hashnode.com/uploads/covers/62d5556b2f40e31decd90345/69f82678-73ec-4f13-a7d4-58b4c47967af.jpg align="center")
 
@@ -169,7 +169,7 @@ KRaft embeds a Raft consensus protocol directly into Kafka's controller quorum. 
 
 * * *
 
-## 5\. Partitions and Offsets — The Key to Scalability {#partitions-offsets}
+## 5\. Partitions and Offsets — The Key to Scalability
 
 ![](https://cdn.hashnode.com/uploads/covers/62d5556b2f40e31decd90345/bb68882c-49bc-466e-9b1f-03bf90e793f0.jpg align="center")
 
@@ -224,7 +224,7 @@ log.cleanup.policy=compact
 
 * * *
 
-## 6\. Replication and Fault Tolerance — Unstoppable by Design {#replication}
+## 6\. Replication and Fault Tolerance — Unstoppable by Design
 
 ### Replication Factor
 
@@ -272,7 +272,7 @@ This was a significant milestone that made Kafka viable for financial transactio
 
 * * *
 
-## 7\. The Kafka Ecosystem — Beyond Basic Messaging {#ecosystem}
+## 7\. The Kafka Ecosystem — Beyond Basic Messaging
 
 Kafka's ecosystem extends far beyond the core broker. These four components transform it from a message bus into a complete data platform.
 
@@ -341,7 +341,7 @@ This is particularly powerful for operational analytics teams who know SQL but n
 
 * * *
 
-## 8\. Why Kafka Is Absurdly Fast {#performance}
+## 8\. Why Kafka Is Absurdly Fast
 
 ![](https://cdn.hashnode.com/uploads/covers/62d5556b2f40e31decd90345/f1314f90-dd5c-49ff-94db-996794741c4d.jpg align="center")
 
@@ -380,7 +380,7 @@ Kafka aggressively relies on the OS page cache rather than managing its own memo
 
 * * *
 
-## 9\. Real-World Use Cases {#use-cases}
+## 9\. Real-World Use Cases
 
 ![](https://cdn.hashnode.com/uploads/covers/62d5556b2f40e31decd90345/350e3cd2-b69c-4a48-8e5a-d0abc63a01f7.jpg align="center")
 
@@ -434,7 +434,7 @@ This is the question every architect faces. Here's an honest comparison:
 
 * * *
 
-## 11\. When Should You Actually Choose Kafka? {#decision}
+## 11\. When Should You Actually Choose Kafka?
 
 A decision framework to cut through the hype:
 
@@ -468,7 +468,7 @@ A decision framework to cut through the hype:
 
 * * *
 
-## 12\. Getting Started in 15 Minutes {#getting-started}
+## 12\. Getting Started in 15 Minutes
 
 ### Option A: Local Setup via Docker Compose
 
@@ -576,7 +576,7 @@ For production systems with serious throughput, Amazon MSK Serverless or Conflue
 
 * * *
 
-## 13\. Summary {#summary}
+## 13\. Summary
 
 Let's bring it home. Here's what every engineer should internalize about Kafka:
 
