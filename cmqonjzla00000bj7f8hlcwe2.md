@@ -16,8 +16,6 @@ tags: software-development, backend, distributed-system, apache-kafka, event-dri
 
 ## 1\. The Problem Kafka Was Built to Solve
 
-![](https://cdn.hashnode.com/uploads/covers/62d5556b2f40e31decd90345/e29219f2-7891-413f-bc80-04fc927ba9a9.jpg align="center")
-
 Let me paint you a picture. It's 2010. LinkedIn is growing explosively. Engineers are trying to pipe activity data — page views, clicks, job applications, connection events — into multiple downstream systems: Hadoop for batch analytics, a recommendation engine, a monitoring stack. Every team is building their own point-to-point integration. The result? A tangled web of pipelines, each with its own failure modes, each struggling to keep up with millions of events per second.
 
 Traditional [RDBMS](https://en.wikipedia.org/wiki/Relational_database) systems weren't designed for this. Message queues like ActiveMQ or RabbitMQ were better, but they traded high throughput for low latency or vice versa — rarely both. The architectural gap between **"store-and-query"** and **"stream-and-react"** was real and painful.
