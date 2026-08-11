@@ -12,6 +12,8 @@ In November 2025, I published [“Factory AI: A Comprehensive Look at Agent-Nati
 
 This is the 2026 update.
 
+%[https://speakerdeck.com/x5gtrn/factory-ai-the-complete-guide-2026] 
+
 The most important change is not a longer feature list. Factory now makes more sense as an **engineering execution system**: one Droid runtime that can work interactively, launch parallel Missions, delegate to custom subagents, reuse team procedures as Skills, and run headlessly in CI. Around that runtime sits an increasingly serious control plane for permissions, sandboxing, governance, observability, and measuring whether a repository is actually ready for autonomous work.
 
 That shift also changes the right question. Instead of asking, “How good is Factory at generating code?”, ask:
@@ -19,8 +21,6 @@ That shift also changes the right question. Instead of asking, “How good is Fa
 > Can my repository turn an explicit engineering intent into a small, reviewable, verified change—with enough evidence that a human can safely approve it?
 
 This guide explains the current architecture, shows concrete workflows, and separates useful engineering practice from agent hype.
-
-%[https://speakerdeck.com/x5gtrn/factory-ai-the-complete-guide-2026] 
 
 ## The 2025 mental model vs. the 2026 product
 
