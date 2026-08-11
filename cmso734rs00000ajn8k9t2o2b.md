@@ -4,7 +4,7 @@ datePublished: 2026-08-11T05:03:27.237Z
 cuid: cmso734rs00000ajn8k9t2o2b
 slug: article-2026-08-11-1401
 cover: https://cdn.hashnode.com/uploads/covers/62d5556b2f40e31decd90345/37f1a721-8731-4aab-810b-b672813a57b0.jpg
-tags: ai, software-development, automation, devops, developer-tools
+tags: ai, software-development, automation, devops, developer-tools, orchestration
 
 ---
 
