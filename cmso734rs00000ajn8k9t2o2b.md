@@ -1,5 +1,5 @@
 ---
-title: "Factory AI in 2026: From Specialized Droids to an Agent-Native Engineering Systemｖ"
+title: "Factory AI in 2026: From Specialized Droids to an Agent-Native Engineering System"
 datePublished: 2026-08-11T05:03:27.237Z
 cuid: cmso734rs00000ajn8k9t2o2b
 slug: article-2026-08-11-1401
