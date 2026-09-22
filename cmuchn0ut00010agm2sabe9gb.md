@@ -304,6 +304,8 @@ Tune thresholds on a development set and report results on a separate held-out s
 
 The [Jev 1.13 limitations](https://docs.typesafe.ai/model-jaggedness/jev-1.13) include numerical precision, date comparisons, indirection, irrelevant context, and adversarial content. Keep arithmetic and structural invariants in code. Pin the model version when evaluating thresholds, and rerun the evaluation when the model, question wording, or context-selection logic changes.
 
+## Conclusion
+
 Store an audit record linking the context revisions, model version, question version, policy decision, approval, actual tool result, and review outcome. Redact sensitive payloads and restrict log access. For retries, distinguish re-evaluating evidence from repeating a side effect; use idempotency or reconciliation for the latter. Give operators a way to stop execution and revert to manual handling.
 
 The result is a governed workflow with measurable responsibilities: useful evidence reaches the agent, probabilistic judgments reach ordinary code, and authorized actions reach scoped tools. Begin with one real task, define what success means, and make every completed action explainable. That is a practical foundation for agents that can become both safer and faster as the system improves.
