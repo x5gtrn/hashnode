@@ -2,7 +2,7 @@
 title: "What Is JetBrains Air?"
 datePublished: 2026-10-20T19:00:35.288Z
 cuid: cmvh1tbnn000102mk8972etqd
-slug: article-2026-10-26-0400
+slug: article-2026-10-21-0400
 cover: https://cdn.hashnode.com/uploads/covers/62d5556b2f40e31decd90345/5004419b-bf38-4777-bbff-5849c6bbfac6.jpg
 tags: code-review, software-engineering, developer-tools, jetbrains, ai-agents
 
