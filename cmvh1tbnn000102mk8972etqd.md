@@ -347,7 +347,7 @@ Remaining decisions: <owner and question>
 
 For uncommitted changes, the commit alone is insufficient: preserve the patch or another stable representation of the reviewed state. If the code changes after review, the previous evidence may no longer describe what will be merged.
 
-## 8\. Air Teams make the environment a shared engineering asset
+## 8\. Air Teams makes the environment a shared engineering asset
 
 Local agent work often depends on accidental infrastructure: a developer’s installed JDK, a package-manager cache, a private registry login, or a database left running yesterday.
 
