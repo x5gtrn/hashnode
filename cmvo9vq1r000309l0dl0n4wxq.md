@@ -2,7 +2,7 @@
 title: "Stop Choosing an Obsidian Template. Engineer a Vault Architecture."
 datePublished: 2026-10-25T20:20:47.406Z
 cuid: cmvo9vq1r000309l0dl0n4wxq
-slug: stop-choosing-an-obsidian-template-engineer-a-vault-architecture
+slug: article-2026-10-26-0519
 cover: https://cdn.hashnode.com/uploads/covers/62d5556b2f40e31decd90345/9869c48b-7f19-48bb-8d3d-231a5c354a2c.jpg
 tags: productivity, documentation, obsidian, note-taking, personal-knowledge-management
 
